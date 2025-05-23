@@ -1,2 +1,1 @@
-# Albasmacompany
-شركة لإنشاء المواقع والتطبيقات 
+print("hellow")
